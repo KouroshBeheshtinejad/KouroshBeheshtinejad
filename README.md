@@ -19,4 +19,6 @@ I have done projects such as:
 Build a strong portfolio, get an internship or remote position, and grow your data science career 
 
 ## Stay in touch:
-[kouroshbnj@gmail.com]
+My instagram: [https://instagram.com/kourosh.beheshtinejad]
+My gmail: [kouroshbnj@gmail.com]
+My telegram: [https://t.me/Kouroshbeheshtinejad]
