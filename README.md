@@ -1,6 +1,6 @@
 # Hi I'm Kourosh
 
-Computer Science Student | Machine Learning and AI Lover 
+Computer Science Student | Machine Learning and Deep Learning 
   
   On the Paths of Python and Implementing Real Projects  
   
