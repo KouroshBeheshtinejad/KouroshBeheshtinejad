@@ -18,5 +18,5 @@ I have done projects such as:
 ## My goal?
 Build a strong portfolio, get an internship or remote position, and grow your data science career 
 
- Stay in touch:
+## Stay in touch:
 [kouroshbnj@gmail.com]
