@@ -1,20 +1,20 @@
-# 👋 سلام! من کوروشم
+# Hi I'm Kourosh
 
-🎓 دانشجوی علوم کامپیوتر |  عاشق یادگیری ماشین و هوش مصنوعی  
- در مسیر یادگیری Python و اجرای پروژه‌های واقعی  
-📊 پروژه‌هایی انجام دادم مثل:
-- پیش‌بینی قیمت مسکن با رگرسیون
-- تشخیص سرطان سینه با طبقه‌بندی
-- خوشه‌بندی داده‌ها با KMeans
+Computer Science Student | Machine Learning and AI Lover 
+On the Paths of Python and Implementing Real Projects  
+I have done projects such as:
+- Predicting Housing Prices with Regression
+- Diagnosing Breast Cancer with Classification
+- Clustering Data with KMeans
 
-## 💻 مهارت‌ها
+## Skills
 - Python, Git & GitHub
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn, ML Basics
 - Regression, Classification, Clustering
 
-## 🚀 هدفم؟
-ساخت نمونه‌کار قوی، گرفتن موقعیت کارآموزی یا ریموت، و رشد تو مسیر دیتا ساینس 
+## My goal?
+Build a strong portfolio, get an internship or remote position, and grow your data science career 
 
- در تماس باشیم:
-[اkouroshbnj@gmail.com]
+ Stay in touch:
+[kouroshbnj@gmail.com]
