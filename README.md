@@ -16,7 +16,6 @@ I have done projects such as:
 - Scikit-learn, ML Basics
 - Regression, Classification, Clustering
 - Tensorflow, Keras
-- CNN, MLP, RNN
   
 ## My goal?
 Build a strong portfolio, get an internship or remote position, and grow your data science career 
