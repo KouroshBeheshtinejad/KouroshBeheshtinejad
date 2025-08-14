@@ -6,8 +6,7 @@ Computer Science Student | Machine Learning and Deep Learning
   
 I have done projects such as:
 - Predicting Housing Prices with Regression
-- Diagnosing Breast Cancer with Classification
-- Clustering Data with KMeans
+- Chance of Heart Attack with Classification
 
 ## Skills
 - Mathematic, Discrete Mathematics
