@@ -14,7 +14,7 @@ I have done projects such as:
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn, ML Basics
 - Regression, Classification, Clustering
-- Tensorflow, Keras
+- Tensorflow, Keras, Pytorch
   
 ## My goal?
 Build a strong portfolio, get an internship or remote position, and grow your data science career 
