@@ -7,6 +7,8 @@ Computer Science Student | Machine Learning and Deep Learning
 I have done projects such as:
 - Predicting Housing Prices with Regression
 - Chance of Heart Attack with Classification
+- Fraud Detection Using Machine Learning Algorithm
+- Build Three Simple API for Prediction Stuff
 
 ## Skills
 - Mathematic, Discrete Mathematics
