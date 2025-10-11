@@ -15,7 +15,8 @@ I have done projects such as:
 - Python, Git & GitHub
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn, ML Basics
-- Regression, Classification, Clustering
+- Deep Learning Basics
+- Regression, Classification, Clustering, Recommender System
 - Tensorflow, Keras, Pytorch
   
 ## My goal?
