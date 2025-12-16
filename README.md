@@ -4,7 +4,6 @@
 - **Machine Learning Engineer and Data Scientist** 
 - **AI Researcher**
   
-  On the Paths of Python and Implementing Real Projects  
   
 I have done projects such as:
 - Research on the Application of Machine Learning in Cybersecurity
