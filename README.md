@@ -24,5 +24,5 @@ Build a strong portfolio, get an internship or remote position, and grow your da
 
 ## Stay in touch:
 - My instagram: [https://instagram.com/kourosh.beheshtinejad]
-- My gmail: [kouroshbnj@gmail.com]
+- My gmail: [kouroshbeheshtinejad@gmail.com]
 - My telegram: [https://t.me/Kouroshbeheshtinejad]
