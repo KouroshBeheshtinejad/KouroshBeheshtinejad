@@ -1,22 +1,29 @@
 # Hi I'm Kourosh
 
-Computer Science Student | Machine Learning and Deep Learning 
+- **Computer Science Graduate** 
+- **Machine Learning Engineer and Data Scientist** 
+- **AI Researcher**
   
   On the Paths of Python and Implementing Real Projects  
   
 I have done projects such as:
-- Predicting Housing Prices with Regression
+- Research on the Application of Machine Learning in Cybersecurity
 - Chance of Heart Attack with Classification
 - Fraud Detection Using Machine Learning Algorithm
 - Build Three Simple API for Prediction Stuff
 
 ## Skills
+- Cisco Packet Tracer and Basics of Computer Networks
 - Mathematic, Discrete Mathematics
-- Python, Git & GitHub
-- NumPy, Pandas, Matplotlib, Seaborn
-- Scikit-learn, ML Basics
-- Deep Learning Basics
+- Python, Matlab
+- Object-Oriented Programming with Python
+- Threading and Multiprocessing
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Data Preprocessing and Visualization
+- Scikit-learn, Machine Learning Fundamental
 - Regression, Classification, Clustering, Recommender System
+- Neural Networks and Deep Learning Fundamentals
 - Tensorflow, Keras
   
 ## My goal?
@@ -26,3 +33,4 @@ Build a strong portfolio, get an internship or remote position, and grow your da
 - My instagram: [https://instagram.com/kourosh.beheshtinejad]
 - My gmail: [kouroshbeheshtinejad@gmail.com]
 - My telegram: [https://t.me/Kouroshbeheshtinejad]
+- My Likedin: [www.linkedin.com/in/kouroshbeheshtinejad]
