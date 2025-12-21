@@ -10,6 +10,7 @@ I have done projects such as:
 - Chance of Heart Attack with Classification
 - Fraud Detection Using Machine Learning Algorithm
 - Build Three Simple API for Prediction Stuff
+- CNN Baseline for Cat and Dog Classifier
 
 ## Skills
 - Cisco Packet Tracer and Basics of Computer Networks
