@@ -2,7 +2,7 @@
 
 - **Computer Science Graduate** 
 - **Machine Learning Engineer and Data Scientist** 
-- **AI Researcher**
+- **AI Engineer**
   
   
 I have done projects such as:
