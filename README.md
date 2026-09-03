@@ -1,51 +1,104 @@
-# Hi I'm Kourosh
+# Hi, I'm Kourosh 
 
-- **Computer Science Graduate** 
-- **Machine Learning Engineer | Data Scientist** 
-- **AI Engineer**
-  
-  
-### Selected Projects
-- Machine Learning Applications in Cybersecurity (Research)
-- Heart Attack Risk Prediction (Classification)
-- Fraud Detection using Machine Learning
-- REST APIs for ML Model Inference
-- CNN Baseline for Cat vs Dog Classification
+ **Computer Science Graduate | AI & Machine Learning Enthusiast | Software Engineer**
 
-## Skills & Knowledge
-### Programming
-- Python, MATLAB
-- Object-Oriented Programming (OOP) in Python
-- Threading and Multiprocessing in Python
-- Working with virtual environments and package management (pip, venv)
-- Writing clean, modular, and reusable Python code
-### Machine Learning & Deep Learning
-- ML mathematical foundations and data analysis
-- Data preprocessing, EDA, and visualization
-- Classical ML with Scikit-learn
-- Regression, Classification, Clustering, Recommender Systems
-- Gradient boosting (XGBoost, LightGBM) and imbalanced learning (SMOTE)
-- Deep learning with TensorFlow/Keras (MLP, CNN, Transfer Learning)
-- Model serialization and lightweight deployment (Joblib, Streamlit)
-### Network Skills (Network+)
-- Solid understanding of computer networks, OSI & TCP/IP models
-- Practical experience with Linux and Windows network configuration
-- IPv4/IPv6 addressing, routing, and subnetting
-- Network simulation and topology design using VMware and Cisco Packet Tracer
-- Configuration of switching and routing (VLAN, Inter-VLAN, Static Routing, OSPF)
-- Deployment and management of core services (DNS, DHCP, FTP, Web, Email)
-- Remote access and management using SSH, Telnet, RDP, and VNC
-- Firewall configuration and NAT implementation on Linux and Windows
-- Basic network security concepts and VPN deployment
-- Packet analysis and troubleshooting using Wireshark
-### Web/Database/DevOps
-- WordPress
-- HTML & CSS
-- SQL Server
-- SQL querying and relational data modeling
-- Docker (containerization basics)
-## Stay in touch:
-- Instagram: [https://instagram.com/kourosh.beheshtinejad]
-- Gmail: [kouroshbeheshtinejad@gmail.com]
-- Telegram: [https://t.me/Kouroshbeheshtinejad]
-- Likedin: [www.linkedin.com/in/kouroshbeheshtinejad]
+I’m a Computer Science graduate focused on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and intelligent software systems**.
+
+I enjoy turning research ideas and machine learning concepts into **real, deployable systems** — from training models and designing data pipelines to building APIs, databases, and production-oriented applications.
+
+###  What I Work On
+
+*  **Machine Learning & Deep Learning**
+*  **Computer Vision & Face Recognition**
+*  **Artificial Intelligence & Reinforcement Learning**
+*  **Malware & Ransomware Detection**
+*  **Backend Development & AI APIs**
+*  **Databases & Vector Search**
+*  **AI Research & Experimental Systems**
+
+###  Tech Stack
+
+**Languages**
+
+* Python
+* SQL
+
+**Machine Learning / AI**
+
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* LightGBM
+* XGBoost
+* NumPy
+* Pandas
+
+**Computer Vision**
+
+* OpenCV
+* InsightFace
+* ONNX Runtime
+
+**Backend & Data**
+
+* FastAPI
+* PostgreSQL
+* pgvector
+* Pydantic
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Docker
+* Jupyter
+* Google Colab
+* VS Code
+* Linux
+
+###  Featured Projects
+
+**FA Face Identity System**
+A real-time Persian face recognition system combining **Computer Vision, InsightFace, PostgreSQL + pgvector, FastAPI, and Persian Text-to-Speech** into an end-to-end AI application.
+
+**Advanced Malware & Ransomware Detection**
+Machine learning research project for detecting malicious Windows PE files. The final LightGBM model achieved **99.55% accuracy, 99.48% F1-score, and 0.9998 ROC-AUC** on the evaluated dataset.
+
+**Fraud Detection System**
+An end-to-end fraud detection pipeline using **Random Forest, SMOTE, feature engineering, model evaluation, and FastAPI deployment**, achieving a **0.9663 ROC-AUC**.
+
+**Car Price Prediction**
+A machine learning regression project involving preprocessing, feature engineering, model comparison, and cross-validation, achieving approximately **0.854 mean R²**.
+
+### Research Interests
+
+My current interests include:
+
+* Adaptive & Reinforcement Learning
+* Uncertainty-aware AI
+* Computer Vision
+* AI for Cybersecurity
+* Intelligent Autonomous Systems
+* Multimodal & Generative AI
+* AI + Emerging Technologies
+
+I’m particularly interested in building systems that bridge the gap between **AI research and real-world engineering**.
+
+###  Long-Term Project
+
+I’m also developing **NanoSuit AI** — a long-term experimental wearable AI system inspired by advanced human-machine interfaces. The project explores the intersection of **Artificial Intelligence, sensor systems, embedded technologies, and emerging nanotechnology concepts**.
+
+---
+
+###  Currently
+
+ Deepening my knowledge in **Deep Learning, Computer Vision, and Reinforcement Learning**
+
+ Working toward **AI research and publication**
+
+ Building increasingly complex **end-to-end AI systems**
+
+ Exploring the intersection of **AI, cybersecurity, robotics, and emerging technologies**
+
+---
+
+> **Building intelligent systems from research ideas to real-world prototypes.**
